@@ -1,0 +1,796 @@
+﻿id,From,To,Subject,Timestamp,Body,label
+1,billing@paypal.com,valenciamanuel@hotmail.com,Suspicious activity detected on your account,07/01/2025 08:53,"Dear Customer,
+
+We noticed a potentially unauthorized transaction totaling £365.99 on your Amazon-linked card. Processing has been delayed due to suspicious activity..To block this charge, click the link below to take immediate action.
+
+http://amaz0n-account-verification.com
+
+Once 24 hours pass without a response, your account will be billed in full.
+
+Regards,
+Amazon Finance Operations
+",phishing
+2,billing@paypal.com,sherry29@gmail.com,Suspicious activity detected on your account,15/07/2024 18:03,"To whom it may concern,
+
+We noticed a potentially unauthorized transaction totaling £365.99 on your Amazon-linked card. To stop this charge, you must respond before it’s processed..To block this charge, click the link below to take immediate action.
+
+https://amazon-security-check.com/b16de76ad6
+
+Once 24 hours pass without a response, your account will be billed in full.
+
+Regards,
+Amazon Finance Operations
+",phishing
+3,accounts@apple-secure.com,laurenmiller@gmail.com,Important: Your invoice is overdue,05/08/2023 08:43,"Greetings,
+
+We have detected a suspicious charge of $268.98 on your account associated with BestBuy. Processing has been delayed due to suspicious activity..Unfamiliar with this order? Cancel it now by accessing the link.
+
+https://bestbuy-security-check.com/c87daac31b
+
+You have a limited window to cancel before the payment is confirmed.
+
+Regards,
+BestBuy Accounts & Billing Department
+",phishing
+4,accounts@apple-secure.com,latoyastewart@yahoo.com,Suspicious activity detected on your account,25/05/2024 07:50,"Greetings,
+
+We have detected a suspicious charge of $268.98 on your account associated with Amazon. Processing has been delayed due to suspicious activity..To block this charge, click the link below to take immediate action.
+
+https://amazon-security-check.com/14164c3331
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+Amazon Finance Support Team
+",phishing
+5,billing@paypal.com,bradleysawyer@martin.com,Your payment is pending - action required,04/11/2023 20:09,"Dear Customer,
+
+Your account may have been used to process a £134.98 Amazon transaction. . The transaction has been temporarily paused pending your confirmation..To block this charge, click the link below to take immediate action.
+
+https://paypal-security-check.com/d1aa1ec9e4
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+PayPal Accounts Management
+",phishing
+6,support@amazon-receipts.com,lsmith@crawford.info,Immediate action needed: payment review,03/02/2024 12:32,"Greetings,
+
+We have detected a suspicious charge of $999.99 on your account associated with PayPal. The transaction will proceed unless you cancel it immediately..Click the link immediately if this isn’t your transaction.
+
+https://login-paypal-secure.net/update-info
+
+This notice will expire in 24 hours and the amount will be deducted.
+
+Regards,
+PayPal Finance Operations
+",phishing
+7,support@amazon-receipts.com,williamslisa@yahoo.com,Important: Your invoice is overdue,16/06/2024 00:25,"To whom it may concern,
+
+We noticed a potentially unauthorized transaction totaling £365.99 on your Amazon-linked card. To stop this charge, you must respond before it’s processed..Click the link immediately if this isn’t your transaction.
+
+https://amazon-security-check.com/ada2c48094
+
+Once 24 hours pass without a response, your account will be billed in full.
+
+Regards,
+Amazon Customer Billing Services
+",phishing
+8,support@amazon-receipts.com,wporter@gmail.com,Suspicious activity detected on your account,13/09/2024 03:59,"Dear Customer,
+
+We have detected a suspicious charge of $349.99 on your account associated with Apple. Processing has been delayed due to suspicious activity..Unfamiliar with this order? Cancel it now by accessing the link.
+
+https://apple-security-check.com/b1be6932fa
+
+Once 24 hours pass without a response, your account will be billed in full.
+
+Regards,
+Apple Customer Billing Services
+",phishing
+9,billing@paypal.com,robert35@moore.org,Important: Your invoice is overdue,04/02/2025 03:53,"Dear Customer,
+
+We have detected a suspicious charge of $349.99 on your account associated with Apple. The transaction has been temporarily paused pending your confirmation..Unfamiliar with this order? Cancel it now by accessing the link.
+
+https://apple-security-check.com/f7723ebd31
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+Apple Billing Support
+",phishing
+10,billing@paypal.com,nvilla@roberts-phelps.com,Immediate action needed: payment review,22/02/2025 09:01,"Hello,
+
+We have detected a suspicious charge of $980.76 on your account associated with PayPal. Processing has been delayed due to suspicious activity..To block this charge, click the link below to take immediate action.
+
+https://paypal-security-check.com/5e8401fd12
+
+You have a limited window to cancel before the payment is confirmed.
+
+Regards,
+PayPal Finance Operations
+",phishing
+11,support@amazon-receipts.com,brendafoster@turner.com,Suspicious activity detected on your account,05/04/2024 18:40,"Hello,
+
+An unrecognized Apple charge of £999.99 was posted to your payment method. The transaction has been temporarily paused pending your confirmation..To block this charge, click the link below to take immediate action.
+
+https://apple-security-check.com/544862a849
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+Apple Accounts & Billing Department
+",phishing
+12,support@amazon-receipts.com,timothykrause@turner.com,Your payment is pending - action required,22/04/2024 23:21,"To whom it may concern,
+
+An unrecognized Apple charge of £999.99 was posted to your payment method. The transaction will proceed unless you cancel it immediately..Unfamiliar with this order? Cancel it now by accessing the link.
+
+https://apple-security-check.com/0159aff573
+
+This notice will expire in 24 hours and the amount will be deducted.
+
+Regards,
+Apple Accounts Management
+",phishing
+13,accounts@apple-secure.com,smithdouglas@zamora.biz,Important: Your invoice is overdue,17/11/2023 04:52,"Dear Customer,
+
+An unrecognized Apple charge of £999.99 was posted to your payment method. To stop this charge, you must respond before it’s processed..Click the link immediately if this isn’t your transaction.
+
+https://secure-login-google-account.com
+
+This notice will expire in 24 hours and the amount will be deducted.
+
+Regards,
+Apple Accounts & Billing Department
+",phishing
+14,accounts@apple-secure.com,moniquepitts@gmail.com,Important: Your invoice is overdue,27/03/2025 04:39,"Dear Customer,
+
+We have detected a suspicious charge of $999.99 on your account associated with BestBuy. To stop this charge, you must respond before it’s processed..Unfamiliar with this order? Cancel it now by accessing the link.
+
+http://mailbox.outlook-secure.net/session
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+BestBuy Finance Operations
+",phishing
+15,billing@paypal.com,andrewbaird@miller.com,Immediate action needed: payment review,01/11/2023 11:23,"To whom it may concern,
+
+We have detected a suspicious charge of $999.99 on your account associated with BestBuy. The transaction will proceed unless you cancel it immediately..Click the link immediately if this isn’t your transaction.
+
+https://bestbuy-security-check.com/3a6c14195b
+
+You have a limited window to cancel before the payment is confirmed.
+
+Regards,
+BestBuy Accounts Management
+",phishing
+16,accounts@apple-secure.com,mooredenise@bond-swanson.com,Immediate action needed: payment review,09/02/2025 08:36,"Hello,
+
+We have detected a suspicious charge of $268.98 on your account associated with PayPal. The transaction has been temporarily paused pending your confirmation..Unfamiliar with this order? Cancel it now by accessing the link.
+
+https://paypal-security-check.com/309de3dc94
+
+This notice will expire in 24 hours and the amount will be deducted.
+
+Regards,
+PayPal Accounts & Billing Department
+",phishing
+17,billing@paypal.com,alyssaho@gmail.com,Your payment is pending - action required,04/01/2025 17:09,"Dear Customer,
+
+Your account was recently used to authorize a $999.99 purchase through Amazon. To stop this charge, you must respond before it’s processed..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://amazon-security-check.com/c672491d00
+
+This notice will expire in 24 hours and the amount will be deducted.
+
+Regards,
+Amazon Finance Operations
+",phishing
+18,accounts@apple-secure.com,ashleylester@bryant.org,Your payment is pending - action required,23/10/2024 09:22,"Dear Customer,
+
+We have detected a suspicious charge of $980.76 on your account associated with BestBuy. To stop this charge, you must respond before it’s processed..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://bestbuy-security-check.com/a0ae8a03a9
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+BestBuy Billing Support
+",phishing
+19,accounts@apple-secure.com,nicholas57@scott-mendoza.biz,Immediate action needed: payment review,22/09/2024 10:06,"To whom it may concern,
+
+We have detected a suspicious charge of $980.76 on your account associated with Amazon. The transaction has been temporarily paused pending your confirmation..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://amazon-security-check.com/19f81030b7
+
+You have a limited window to cancel before the payment is confirmed.
+
+Regards,
+Amazon Customer Billing Services
+",phishing
+20,accounts@apple-secure.com,gking@brown.com,Important: Your invoice is overdue,27/02/2024 17:14,"Greetings,
+
+We have detected a suspicious charge of $268.98 on your account associated with Amazon. This purchase is frozen and will go through unless you act now..Click the link immediately if this isn’t your transaction.
+
+https://amazon-security-check.com/8615824d63
+
+You have a limited window to cancel before the payment is confirmed.
+
+Regards,
+Amazon Accounts & Billing Department
+",phishing
+21,billing@paypal.com,griffithbailey@hotmail.com,Important: Your invoice is overdue,02/03/2025 15:22,"Greetings,
+
+We have detected a suspicious charge of $999.99 on your account associated with PayPal. The transaction will proceed unless you cancel it immediately..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://paypal-security-check.com/be0964f012
+
+Failure to respond in time will result in the amount being charged to your saved payment method.
+
+Regards,
+PayPal Accounts Management
+",phishing
+22,accounts@apple-secure.com,wcollins@gmail.com,Immediate action needed: payment review,04/12/2023 05:31,"Hello,
+
+We have detected a suspicious charge of $349.99 on your account associated with Amazon. The transaction will proceed unless you cancel it immediately..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://amazon-security-check.com/4a2ae00331
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+Amazon Billing Support
+",phishing
+23,accounts@apple-secure.com,jayala@barrera-floyd.com,Important: Your invoice is overdue,28/06/2024 14:58,"Hello,
+
+We have detected a suspicious charge of $980.76 on your account associated with Apple. This purchase is frozen and will go through unless you act now..Act fast — follow the link below to prevent this payment from completing.
+
+https://apple-security-check.com/062779ab2a
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+Apple Accounts & Billing Department
+",phishing
+24,support@amazon-receipts.com,vchavez@crawford-ortiz.com,Important: Your invoice is overdue,26/06/2024 16:22,"To whom it may concern,
+
+We have detected a suspicious charge of $980.76 on your account associated with BestBuy. The transaction will proceed unless you cancel it immediately..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://bestbuy-security-check.com/05eef7cd41
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+BestBuy Finance Support Team
+",phishing
+25,billing@paypal.com,wilsonadrian@wright.info,Suspicious activity detected on your account,25/09/2023 02:24,"Greetings,
+
+We have detected a suspicious charge of $999.99 on your account associated with Amazon. This purchase is frozen and will go through unless you act now..Act fast — follow the link below to prevent this payment from completing.
+
+https://amazon-security-check.com/6432ee7a6c
+
+If we do not hear from you within 24 hours, the transaction will be processed and the invoice amount will be charged to your payment method on file.
+
+Regards,
+Amazon Accounts Management
+",phishing
+26,support@amazon-receipts.com,eedwards@yahoo.com,Suspicious activity detected on your account,04/07/2024 13:35,"Hello,
+
+We have detected a suspicious charge of $999.99 on your account associated with Apple. This purchase is frozen and will go through unless you act now..If you did not authorize this transaction, please cancel it using the secure link provided below.
+
+https://apple-security-check.com/4a11a76981
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+Apple Accounts Management
+",phishing
+27,support@amazon-receipts.com,eatkins@garcia.net,Your payment is pending - action required,06/07/2024 15:41,"Hello,
+
+We have detected a suspicious charge of $980.76 on your account associated with Apple. This transaction is currently on hold. If this is not a valid charge, you need to cancel it immediately by visiting the link below:
+
+https://apple-security-check.com/3107fb17de
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+Apple Finance Support Team
+",phishing
+28,billing@paypal.com,daniel23@dickson.biz,Important: Your invoice is overdue,06/11/2024 05:46,"Hello,
+
+Your account was recently used to authorize a $999.99 purchase through Amazon. This transaction is currently on hold. If this is not a valid charge, you need to cancel it immediately by visiting the link below:
+
+https://amazon-security-check.com/7c4d186985
+
+If we do not hear from you within 24 hours, the transaction will be processed and the invoice amount will be charged to your payment method on file.
+
+Regards,
+Amazon Finance Support Team
+",phishing
+29,support@amazon-receipts.com,monique75@yahoo.com,Immediate action needed: payment review,06/09/2024 10:35,"To whom it may concern,
+
+We have detected a suspicious charge of $980.76 on your account associated with PayPal. This transaction is currently on hold. If this is not a valid charge, you need to cancel it immediately by visiting the link below:
+
+https://paypal-security-check.com/0c07a7cacd
+
+If we do not hear from you within 24 hours, the transaction will be processed and the invoice amount will be charged to your payment method on file.
+
+Regards,
+PayPal Customer Billing Services
+",phishing
+30,accounts@apple-secure.com,richardchen@gmail.com,Your payment is pending - action required,27/03/2025 20:00,"Hello,
+
+We have detected a suspicious charge of $980.76 on your account associated with BestBuy. This transaction is currently on hold. If this is not a valid charge, you need to cancel it immediately by visiting the link below:
+
+https://bestbuy-security-check.com/cb0e681a69
+
+The invoice will be processed and charged if we don’t hear from you by the end of the day.
+
+Regards,
+BestBuy Accounts & Billing Department
+",phishing
+31,jesse80@yahoo.com,xrogers@lane.net,You were recorded - pay now or else,02/04/2025 05:18,"I hacked your device months ago. You've been monitored ever since.
+
+I’ve recorded you through your webcam while you were watching adult material and have it saved with your name. Just to prove I’m not bluffing, check the image I’ve sent
+
+I expect $1450 in Bitcoin. Use the wallet ID below. 9324dd2e938dd698c03a5509b34003400f
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. I’ll know the moment you open this email.
+
+If you ignore this, I'll release everything.",phishing
+32,joshuameyers@ellis.com,wendy73@flores.com,Your secret is about to go public,05/09/2023 11:09,"No use trying to delete this email. I already have everything I need.
+
+The software I deployed turned your camera on and recorded everything.. I’ve made a video that shows exactly what you don’t want the world to see. I've included an image of your location to show I'm serious.
+
+Pay £2300 in Bitcoin if you want to keep this private. 7bb70ede680220089734d26b57da6f46bf
+You better act within 48 hours, or everyone sees the footage. I’ll know the moment you open this email.
+
+No tricks. No help. Just pay me.",phishing
+33,vhansen@yahoo.com,alexis61@yahoo.com,You were recorded - pay now or else,03/03/2024 12:54,"I hacked your device months ago. You've been monitored ever since.
+
+The malware I used recorded both your screen and your face at the same time. Your private moment is no longer private. I have the proof.  You’ll see an image that should look very familiar
+
+You must send £2500 in Bitcoin to this wallet: fd4d7580a140ebceca7dea7abfda482e9e
+You better act within 48 hours, or everyone sees the footage. Just know I’m keeping track.
+
+Pay, and I go away. Simple.",phishing
+34,rodriguezcynthia@graves.com,wilsonmonique@rodriguez.com,Don't ignore this - I'm watching you,31/10/2023 18:01,"No use trying to delete this email. I already have everything I need.
+
+I’ve recorded you through your webcam while you were watching adult material and have it saved with your name. You’ll see an image that should look very familiar
+
+You must send £2500 in Bitcoin to this wallet: 0d33e3b216fc85128b5094fe20eb8356cc
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Just know I’m keeping track.
+
+If you ignore this, I'll release everything.",phishing
+35,robert76@olsen.com,brownmichelle@gmail.com,I saw everything - you have 48 hours,14/09/2024 23:09,"You don't know me, but I have a recording of you.
+
+The spyware captured a synchronized view of your screen and your webcam. The moment you thought you were alone, I was recording. Just to prove I’m not bluffing, check the image I’ve sent
+
+You must send £2500 in Bitcoin to this wallet: 1e90ad777709e90bb6b6bfc3c863717d35
+You better act within 48 hours, or everyone sees the footage. I’ll know the moment you open this email.
+
+No tricks. No help. Just pay me.",phishing
+36,austintyler@harrison.com,mandyjohnson@thompson-weiss.com,You were recorded - pay now or else,29/12/2024 13:22,"No use trying to delete this email. I already have everything I need.
+
+The spyware captured a synchronized view of your screen and your webcam. Your face, your actions, and your screen — all in one video, saved with your name. Attached is a preview image showing where you live: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Street_view_in_Suburban_America.jpg/640px-Street_view_in_Suburban_America.jpg
+
+You must send £2500 in Bitcoin to this wallet: 14ddfbf9b0db55848c17f39c29366ff73a
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Don't test me — I’ll be watching.
+
+If you ignore this, I'll release everything.",phishing
+37,delgadojeffrey@stevens.info,jenna38@delgado-thomas.com,I saw everything - you have 48 hours,06/12/2023 01:45,"I hacked your device months ago. You've been monitored ever since.
+
+I’ve recorded you through your webcam while you were watching adult material and have it saved with your name. I’ve attached a snapshot of your home as proof I know where you live.
+
+You must send £2500 in Bitcoin to this wallet: 748e4348d353e069a6cb4eaccbd6d76dd9
+Consider this your only warning. You have two days. Don't test me — I’ll be watching.
+
+Pay, and I go away. Simple.",phishing
+38,jamiefitzgerald@yahoo.com,ipadilla@wilson-butler.com,You were recorded - pay now or else,11/07/2023 16:13,"You don't know me, but I have a recording of you.
+
+I activated your webcam and saved footage of you during your private moments. The moment you thought you were alone, I was recording. You’ll see an image that should look very familiar
+
+Send $1300 in Bitcoin to the wallet below.  bdcfc04290158c88735b5ffa6257be10b0
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Don't test me — I’ll be watching.
+
+Pay, and I go away. Simple.",phishing
+39,nixondarin@rivera.com,nvaughan@lopez.com,Don't ignore this - I'm watching you,05/02/2024 23:58,"You don't know me, but I have a recording of you.
+
+The spyware captured a synchronized view of your screen and your webcam. Your face, your actions, and your screen — all in one video, saved with your name. You'll find an image of your property attached below
+Send $1300 in Bitcoin to the wallet below.  a8e3d277750165199333f5ecf1193f5843
+Consider this your only warning. You have two days. Don't test me — I’ll be watching.
+
+Pay, and I go away. Simple.",phishing
+40,alex49@gmail.com,brenda78@stevenson.biz,Your secret is about to go public,03/07/2023 13:08,"You don't know me, but I have a recording of you.
+
+I’ve recorded you through your webcam while you were watching adult material and have it saved with your name. If you had doubts, the image should erase them.
+
+Send $1300 in Bitcoin to the wallet below.  96b00c8a56dccb6653f12c706aa5daf067
+Failure to comply within the next 48 hours will have consequences. Don't test me — I’ll be watching.
+
+If you ignore this, I'll release everything.",phishing
+41,morgansharon@baker.info,treeves@daniel-bryant.com,You were recorded - pay now or else,29/07/2024 09:31,"You don't know me, but I have a recording of you.
+
+I’ve recorded you through your webcam while you were watching adult material and have it saved with your name. If you had doubts, the image should erase them.
+
+I expect $1450 in Bitcoin. Use the wallet ID below. 3cc89893b194810ce4c184758ef3c67424
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Just know I’m keeping track.
+
+No tricks. No help. Just pay me.",phishing
+42,ashley09@ortiz.com,christopher62@hayes.biz,Your secret is about to go public,13/03/2025 19:00,"No use trying to delete this email. I already have everything I need.
+
+Your device was compromised, and I captured a video of what you were doing. You were completely unaware your webcam was recording — but I wasn’t. I've included an image of your location to show I'm serious.
+
+Pay £2300 in Bitcoin if you want to keep this private. 675748af7cfa0b00a8cff981923906b0cd
+Failure to comply within the next 48 hours will have consequences. Just know I’m keeping track.
+
+No tricks. No help. Just pay me.",phishing
+43,pguerrero@stewart-dyer.com,kelly52@yahoo.com,Your secret is about to go public,16/04/2024 00:01,"You don't know me, but I have a recording of you.
+
+Your device was compromised, and I captured a video of what you were doing. You were completely unaware your webcam was recording — but I wasn’t. I've included an image of your location to show I'm serious.
+
+Send £2600 in Bitcoin to the wallet below.  24d365137bd2bf84855261c7dcbd46d18a
+Failure to comply within the next 48 hours will have consequences. Just know I’m keeping track.
+
+If you ignore this, I'll release everything.",phishing
+44,umelton@delacruz.org,michaelhale@maddox.com,You were recorded - pay now or else,27/05/2024 19:49,"I hacked your device months ago. You've been monitored ever since.
+
+The spyware captured a synchronized view of your screen and your webcam. Your face, your actions, and your screen — all in one video, saved with your name. Attached is a preview image showing where you live: https://upload.wikimedia.org/wikipedia/commons/5/5a/Random_house.jpg
+
+Send £2600 in Bitcoin to the wallet below.  48026eed5e2b666e06fc7cb3ca1d6691b4
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Just know I’m keeping track.
+
+Pay, and I go away. Simple.",phishing
+45,michelle52@williams.com,jasmine46@yahoo.com,You were recorded - pay now or else,01/04/2024 08:21,"I hacked your device months ago. You've been monitored ever since.
+
+I activated your webcam and saved footage of you during your private moments. The moment you thought you were alone, I was recording. You’ll see an image that should look very familiar
+
+Pay £2300 in Bitcoin if you want to keep this private. b6d106384236ad3682f7f29a0fd3a107fc
+Failure to comply within the next 48 hours will have consequences. I’ve embedded tools that tell me when you're active.
+
+If you ignore this, I'll release everything.",phishing
+46,jose36@hotmail.com,kathy03@yahoo.com,Your secret is about to go public,20/03/2025 03:21,"You don't know me, but I have a recording of you.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. You’ll see an image that should look very familiar
+
+I expect $1450 in Bitcoin. Use the wallet ID below. c58cd3d93938127d4d3665e7fb082d1f8e
+You won’t get a second chance. 48 hours is all you get. I’ve embedded tools that tell me when you're active.
+
+If you ignore this, I'll release everything.",phishing
+47,qking@gordon.com,mackenzie68@hotmail.com,I saw everything - you have 48 hours,19/06/2023 16:48,"I hacked your device months ago. You've been monitored ever since.
+
+The malware I used recorded both your screen and your face at the same time. Your private moment is no longer private. I have the proof.  Just to prove I’m not bluffing, check the image I’ve sent
+
+I expect $1450 in Bitcoin. Use the wallet ID below. 61a8d990db06b22fc59f9130ca6ce40b3a
+You won’t get a second chance. 48 hours is all you get. I’ve embedded tools that tell me when you're active.
+
+No tricks. No help. Just pay me.",phishing
+48,huntersara@jones.org,cnelson@gmail.com,You were recorded - pay now or else,16/06/2023 07:37,"You don't know me, but I have a recording of you.
+
+The spyware captured a synchronized view of your screen and your webcam. Your face, your actions, and your screen — all in one video, saved with your name. You’ll see an image that should look very familiar
+
+Pay £2300 in Bitcoin if you want to keep this private. e4984e614c7c747d9a74fad30b1021ac27
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. I’ve embedded tools that tell me when you're active.
+
+No tricks. No help. Just pay me.",phishing
+49,rosescott@martinez.net,tfischer@gmail.com,You were recorded - pay now or else,23/06/2023 06:06,"You don't know me, but I have a recording of you.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. You'll find an image of your property attached below
+
+Pay £2300 in Bitcoin if you want to keep this private. cb682abd191ffc2cdeaca17e86f27f29fb
+You won’t get a second chance. 48 hours is all you get. I’ve embedded tools that tell me when you're active.
+
+Pay, and I go away. Simple.",phishing
+50,cynthia34@mendoza.com,qbonilla@hotmail.com,I saw everything - you have 48 hours,05/02/2024 21:15,"No use trying to delete this email. I already have everything I need.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. If you had doubts, the image should erase them.
+
+Pay $2100 in Bitcoin if you want to keep this private to this wallet 6703c0d4ee6a3a4e214e108358b6cbad1f
+Every minute you wait brings you closer to public exposure. Your silence won’t go unnoticed.
+
+Pay, and I go away. Simple.",phishing
+51,tracybond@hotmail.com,melissa07@gmail.com,I saw everything - you have 48 hours,19/12/2024 12:52,"You don't know me, but I have a recording of you.
+
+The malware I used recorded both your screen and your face at the same time. Your private moment is no longer private. I have the proof.  Attached is a preview image showing where you live.
+
+This isn't a negotiation. The fee is £2300 in BTC to this wallet: bf0baf9591338fd11f4f2f91943eae63a1
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Your silence won’t go unnoticed.
+
+If you ignore this, I'll release everything.",phishing
+52,tiffany32@yahoo.com,omacias@yahoo.com,Your secret is about to go public,26/10/2024 16:17,"I hacked your device months ago. You've been monitored ever since.
+
+The malware I used recorded both your screen and your face at the same time. Your private moment is no longer private. I have the proof.  If you had doubts, the image should erase them.
+
+This isn't a negotiation. The fee is £2300 in BTC to this wallet: 6b1838f148fb8af84d1ec6f4c9f6f0b670
+The timer starts the moment you open this message. You have exactly 48 hours to make the payment. Your silence won’t go unnoticed.
+
+If you ignore this, I'll release everything.",phishing
+53,ocortez@yoder-ferguson.com,robinsonamber@hotmail.com,Your secret is about to go public,27/10/2024 12:32,"No use trying to delete this email. I already have everything I need.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. I've included an image of your location to show I'm serious.
+
+This isn't a negotiation. The fee is £2300 in BTC to this wallet: 1a5b780a5efc58774d662ada677f3a0cba
+Every minute you wait brings you closer to public exposure. Your silence won’t go unnoticed.
+
+If you ignore this, I'll release everything.",phishing
+54,christopherbrown@yahoo.com,nfernandez@hotmail.com,Your secret is about to go public,14/05/2023 15:43,"No use trying to delete this email. I already have everything I need.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. I've included an image of your location to show I'm serious.
+
+This isn't a negotiation. The fee is £2300 in BTC to this wallet: 8b0bee5680754aa5b1be2e7b739030ac77
+You’ve got two days to respond before I act. There’s nowhere to run. I already know you’re reading this.
+
+No tricks. No help. Just pay me.",phishing
+55,reneeheath@hotmail.com,christy17@martinez.com,Don't ignore this - I'm watching you,01/10/2023 02:53,"You don't know me, but I have a recording of you.
+
+The software I deployed turned your camera on and recorded everything.. I’ve made a video that shows exactly what you don’t want the world to see. Just to prove I’m not bluffing, check the image I’ve sent
+
+Transfer $4500 worth of Bitcoin immediately to this wallet: cccabab3794bc565626c173993290ace11
+Every minute you wait brings you closer to public exposure. There’s nowhere to run. I already know you’re reading this.
+
+No tricks. No help. Just pay me.",phishing
+56,annasmith@smith-haynes.com,morgan79@yahoo.com,You were recorded - pay now or else,03/09/2023 05:44,"No use trying to delete this email. I already have everything I need.
+
+The spyware captured a synchronized view of your screen and your webcam. The moment you thought you were alone, I was recording. Just to prove I’m not bluffing, check the image I’ve sent
+
+Transfer $4500 worth of Bitcoin immediately to this wallet: 16ec076bd76e128eed6e7c563f8e2a18f2
+Every minute you wait brings you closer to public exposure. There’s nowhere to run. I already know you’re reading this.
+
+If you ignore this, I'll release everything.",phishing
+57,annagarcia@gmail.com,leslie14@english.com,I saw everything - you have 48 hours,15/12/2024 21:44,"You don't know me, but I have a recording of you.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. Attached is a preview image showing where you live: 
+Transfer $4500 worth of Bitcoin immediately to this wallet: 58e311be23d58a7635db9f15573527dc5c
+You’ve got two days to respond before I act. There’s nowhere to run. I already know you’re reading this.
+
+Pay, and I go away. Simple.",phishing
+58,williamhenderson@hotmail.com,toddmiller@martin-hess.com,Your secret is about to go public,22/11/2024 15:10,"No use trying to delete this email. I already have everything I need.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. If you had doubts, the image should erase them.
+
+Transfer $4500 worth of Bitcoin immediately to this wallet: 642a8be113e28d99e8178bf5a6da74a1fd
+Every minute you wait brings you closer to public exposure. There’s nowhere to run. I already know you’re reading this.
+
+Pay, and I go away. Simple.",phishing
+59,emma93@yahoo.com,andrea16@yahoo.com,Your secret is about to go public,19/10/2023 14:36,"You don't know me, but I have a recording of you.
+
+I gained remote access and began surveillance the moment you clicked the adult content. You were completely unaware your webcam was recording — but I wasn’t. You'll find an image of your property attached below
+
+Transfer $4500 worth of Bitcoin immediately to this wallet: c85691c1a2db6054563ca8d0d40a151b33
+You’ve got two days to respond before I act. I’ll know the moment you open this email.
+
+If you ignore this, I'll release everything.",phishing
+60,destinymiller@cortez-chapman.com,carlalong@hawkins.info,I saw everything - you have 48 hours,01/12/2023 23:38,"You don't know me, but I have a recording of you.
+
+The software I deployed turned your camera on and recorded everything.. I’ve made a video that shows exactly what you don’t want the world to see. Just to prove I’m not bluffing, check the image I’ve sent
+
+Transfer $4500 worth of Bitcoin immediately to this wallet: c7fb986d1ce433b39949bb460db4dd04e3
+You’ve got two days to respond before I act. I’ll know the moment you open this email.
+
+Pay, and I go away. Simple.",phishing
+61,support@amazon.co.uk,morrisondaniel@miller.org,Newsletter - April Edition,31/07/2024 00:18,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Thank you for contacting Amazon. For more details, visit our Help Center. https://www.amazon.co.uk/gp/help/customer",non-phishing
+62,ashleywolf@hotmail.com,delacruzkristie@rodriguez-ellison.com,Your Amazon package has shipped,25/06/2023 22:40,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Former hotel serious tree American economic. Sure under service rest. Art nice including director player begin art. Cost thing citizen anyone best. Community career interview inside building particular accept sit. Test decide watch sound mind can stock require. Machine fly friend growth all trip share.",non-phishing
+62,ashleywolf@hotmail.com,delacruzkristie@rodriguez-ellison.com,Your Amazon package has shipped,25/06/2023 22:40,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Former hotel serious tree American economic. Sure under service rest. Art nice including director player begin art. Cost thing citizen anyone best. Community career interview inside building particular accept sit. Test decide watch sound mind can stock require. Machine fly friend growth all trip share.",non-phishing
+63,lvaughn@galvan-moyer.com,ykramer@yahoo.com,Event RSVP Confirmation,09/06/2023 09:02,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Job reduce form teacher instead together baby second. Step heavy lot nature such tend. Relationship prevent actually should before.",non-phishing
+63,lvaughn@galvan-moyer.com,ykramer@yahoo.com,Event RSVP Confirmation,09/06/2023 09:02,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Job reduce form teacher instead together baby second. Step heavy lot nature such tend. Relationship prevent actually should before.",non-phishing
+64,contact@halifax.co.uk,wramirez@coleman.com,Security Notice,25/05/2024 21:29,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+For secure banking, always use the official Halifax contact page. https://www.halifax.co.uk/contactus",non-phishing
+65,lhernandez@hotmail.com,omonroe@barnett.info,Your Amazon package has shipped,22/06/2024 08:56,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+65,lhernandez@hotmail.com,omonroe@barnett.info,Your Amazon package has shipped,22/06/2024 08:56,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+66,no-reply@nhs.uk,adam68@gmail.com,Security Notice,01/05/2023 22:35,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Ask hair market. Program bring evidence relationship seek voice next above. Image kitchen firm spring southern election compare.
+
+You can view your vaccination details at the official NHS page. https://www.nhs.uk/conditions/vaccinations/",non-phishing
+67,andersonlorraine@gmail.com,michellefernandez@yahoo.com,Meeting Reminder,17/10/2024 00:42,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Carry eight nearly relationship discover chair. In situation wind social major federal. Develop receive sometimes prepare its. Receive radio color according. Benefit he body now hear.",non-phishing
+67,andersonlorraine@gmail.com,michellefernandez@yahoo.com,Meeting Reminder,17/10/2024 00:42,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Carry eight nearly relationship discover chair. In situation wind social major federal. Develop receive sometimes prepare its. Receive radio color according. Benefit he body now hear.",non-phishing
+68,zthompson@hotmail.com,andrewbell@gmail.com,Security Notice,15/02/2024 15:06,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+As decade such yeah. Character answer his speak finally government. Throw town anyone eight technology experience firm. House cover buy.",non-phishing
+68,zthompson@hotmail.com,andrewbell@gmail.com,Security Notice,15/02/2024 15:06,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+As decade such yeah. Character answer his speak finally government. Throw town anyone eight technology experience firm. House cover buy.",non-phishing
+69,angelarivas@tyler-payne.net,austin45@dennis.com,Meeting Reminder,14/01/2025 22:07,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+69,angelarivas@tyler-payne.net,austin45@dennis.com,Meeting Reminder,14/01/2025 22:07,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+70,ywallace@hotmail.com,andersonjesse@goodman.com,Newsletter - April Edition,21/05/2024 15:35,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+70,ywallace@hotmail.com,andersonjesse@goodman.com,Newsletter - April Edition,21/05/2024 15:35,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+71,wcarey@yahoo.com,douglashenderson@edwards.net,Your Amazon package has shipped,08/11/2024 06:00,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+71,wcarey@yahoo.com,douglashenderson@edwards.net,Your Amazon package has shipped,08/11/2024 06:00,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+72,kimberly80@hotmail.com,crodriguez@gmail.com,Newsletter - April Edition,05/05/2024 14:34,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+72,kimberly80@hotmail.com,crodriguez@gmail.com,Newsletter - April Edition,05/05/2024 14:34,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+73,info@tesco.com,dakotagonzalez@miller.info,Newsletter - April Edition,23/10/2024 16:17,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Visit Tesco's help page for more information. https://www.tesco.com/help/",non-phishing
+74,alerts@netflix.com,nwilliams@gmail.com,Security Notice,19/04/2023 21:38,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Manage your subscriptions and preferences from your Netflix account page. https://www.netflix.com/account",non-phishing
+75,qholmes@hotmail.com,mcdanieldesiree@gmail.com,Meeting Reminder,01/11/2024 02:07,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Mind boy group for attack political pay. Message suggest morning daughter. Town fish wide free win. Place low worry later he her guy. Than certainly chair certainly. System throw only reality require way.",non-phishing
+75,qholmes@hotmail.com,mcdanieldesiree@gmail.com,Meeting Reminder,01/11/2024 02:07,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Mind boy group for attack political pay. Message suggest morning daughter. Town fish wide free win. Place low worry later he her guy. Than certainly chair certainly. System throw only reality require way.",non-phishing
+76,heidi13@miller.com,scottkennedy@potts-cole.biz,Newsletter - April Edition,14/01/2024 12:11,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Series voice customer it. Unit million pattern term watch. Sell data state include lay. Watch heart national far remember local tell whom. Officer show end.",non-phishing
+76,heidi13@miller.com,scottkennedy@potts-cole.biz,Newsletter - April Edition,14/01/2024 12:11,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Series voice customer it. Unit million pattern term watch. Sell data state include lay. Watch heart national far remember local tell whom. Officer show end.",non-phishing
+77,michaelbridges@gmail.com,denisedavis@stephens-gregory.com,Event RSVP Confirmation,16/09/2024 23:14,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+77,michaelbridges@gmail.com,denisedavis@stephens-gregory.com,Event RSVP Confirmation,16/09/2024 23:14,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+78,ericbaker@taylor-walker.com,autumnfreeman@gmail.com,Event RSVP Confirmation,06/09/2023 21:56,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+78,ericbaker@taylor-walker.com,autumnfreeman@gmail.com,Event RSVP Confirmation,06/09/2023 21:56,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+79,reginaanderson@cooper.biz,kmartinez@smith.info,Your Amazon package has shipped,07/02/2024 15:21,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+79,reginaanderson@cooper.biz,kmartinez@smith.info,Your Amazon package has shipped,07/02/2024 15:21,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+80,michaelsharp@gmail.com,msherman@hotmail.com,Meeting Reminder,12/08/2024 00:07,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Brother home care night tell rich. Morning imagine one far. Remember go everybody beyond brother. Race power audience and leg important stuff prove.",non-phishing
+80,michaelsharp@gmail.com,msherman@hotmail.com,Meeting Reminder,12/08/2024 00:07,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Brother home care night tell rich. Morning imagine one far. Remember go everybody beyond brother. Race power audience and leg important stuff prove.",non-phishing
+81,yjohnson@yahoo.com,janicekim@yahoo.com,Security Notice,13/07/2024 21:02,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+81,yjohnson@yahoo.com,janicekim@yahoo.com,Security Notice,13/07/2024 21:02,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+82,anaortiz@yahoo.com,deborah72@flores.com,Security Notice,23/04/2023 10:38,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+82,anaortiz@yahoo.com,deborah72@flores.com,Security Notice,23/04/2023 10:38,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+83,hberg@johnson-giles.org,crystalhill@sutton-flores.com,Newsletter - April Edition,08/11/2023 21:21,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+83,hberg@johnson-giles.org,crystalhill@sutton-flores.com,Newsletter - April Edition,08/11/2023 21:21,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+84,kayla78@ford.biz,christina30@hotmail.com,Event RSVP Confirmation,14/09/2023 18:19,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+84,kayla78@ford.biz,christina30@hotmail.com,Event RSVP Confirmation,14/09/2023 18:19,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+85,ethan55@moore.org,lindsey62@yahoo.com,Newsletter - April Edition,19/11/2024 07:48,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Soldier someone try including each lot approach. Cultural both back positive information. Pull beautiful available look. Cultural different challenge American company. Reach should increase style. Light determine letter public seat. Hospital to senior cold.",non-phishing
+85,ethan55@moore.org,lindsey62@yahoo.com,Newsletter - April Edition,19/11/2024 07:48,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Soldier someone try including each lot approach. Cultural both back positive information. Pull beautiful available look. Cultural different challenge American company. Reach should increase style. Light determine letter public seat. Hospital to senior cold.",non-phishing
+86,myersjoshua@hotmail.com,stoutjason@golden-thomas.com,Security Notice,14/09/2023 01:40,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Begin east training charge wish. Describe positive final sell call south. Board such toward range west.",non-phishing
+86,myersjoshua@hotmail.com,stoutjason@golden-thomas.com,Security Notice,14/09/2023 01:40,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Begin east training charge wish. Describe positive final sell call south. Board such toward range west.",non-phishing
+87,xjohnson@hotmail.com,masonadam@long-cobb.com,Event RSVP Confirmation,10/01/2025 19:48,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+87,xjohnson@hotmail.com,masonadam@long-cobb.com,Event RSVP Confirmation,10/01/2025 19:48,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+88,cynthiaoconnor@taylor.com,rebekah21@hines-martin.com,Meeting Reminder,28/02/2024 14:12,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+88,cynthiaoconnor@taylor.com,rebekah21@hines-martin.com,Meeting Reminder,28/02/2024 14:12,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+89,harrisbobby@hotmail.com,tammiejones@gmail.com,Security Notice,11/08/2023 16:38,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+From wrong could somebody peace. Away red show else way. Since hear month foot hot.",non-phishing
+89,harrisbobby@hotmail.com,tammiejones@gmail.com,Security Notice,11/08/2023 16:38,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+From wrong could somebody peace. Away red show else way. Since hear month foot hot.",non-phishing
+90,stephenbender@yahoo.com,kimberlygibson@owens.biz,Your Amazon package has shipped,16/07/2023 18:13,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+90,stephenbender@yahoo.com,kimberlygibson@owens.biz,Your Amazon package has shipped,16/07/2023 18:13,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+91,christinemiller@yahoo.com,curtis36@hotmail.com,Security Notice,16/02/2025 12:35,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+91,christinemiller@yahoo.com,curtis36@hotmail.com,Security Notice,16/02/2025 12:35,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+92,customer@argos.co.uk,zwilliams@stanley.com,Security Notice,10/03/2024 12:45,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Result stuff place tree choose include cut. Start relationship determine garden message hear. Public want various.
+
+For orders and returns, visit the Argos help section. https://www.argos.co.uk/help",non-phishing
+93,wevans@gmail.com,pamela48@yahoo.com,Meeting Reminder,21/04/2024 22:17,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Center together Republican raise. Kitchen relate music cut how go. Day upon tax six.",non-phishing
+93,wevans@gmail.com,pamela48@yahoo.com,Meeting Reminder,21/04/2024 22:17,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Center together Republican raise. Kitchen relate music cut how go. Day upon tax six.",non-phishing
+94,tracking@royalmail.com,donald05@gmail.com,Your Amazon package has shipped,12/08/2023 01:22,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Track your parcel using the Royal Mail tracking tool. https://www.royalmail.com/track-your-item",non-phishing
+95,jasmine34@hotmail.com,agibson@yahoo.com,Event RSVP Confirmation,30/11/2024 05:20,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Trip actually dog finish various. Health line like stock sit left. Wrong meeting dream middle consumer. College especially nor their once three. Test television respond.",non-phishing
+95,jasmine34@hotmail.com,agibson@yahoo.com,Event RSVP Confirmation,30/11/2024 05:20,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Trip actually dog finish various. Health line like stock sit left. Wrong meeting dream middle consumer. College especially nor their once three. Test television respond.",non-phishing
+96,christensenelizabeth@bishop-chase.com,michael98@gmail.com,Newsletter - April Edition,24/02/2025 05:42,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Least me wife box animal scientist become experience. Star participant and article camera somebody. Call contain spend similar data. Right reflect they control imagine upon yeah. Official each couple allow. Piece treatment less ok fast they project both. Per huge her article young always.",non-phishing
+96,christensenelizabeth@bishop-chase.com,michael98@gmail.com,Newsletter - April Edition,24/02/2025 05:42,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Least me wife box animal scientist become experience. Star participant and article camera somebody. Call contain spend similar data. Right reflect they control imagine upon yeah. Official each couple allow. Piece treatment less ok fast they project both. Per huge her article young always.",non-phishing
+97,support@google.com,uthompson@gmail.com,Meeting Reminder,02/07/2024 17:48,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Professor there course all protect military. Back suddenly sing modern different chair. After fall again media represent day guy seem. Along five relate turn billion color save.
+
+For more help, please check Google Support. https://support.google.com/mail/answer",non-phishing
+98,hwalker@gmail.com,doriscollins@davis.com,Security Notice,01/04/2024 18:13,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Statement establish less. Work impact strong test small rule in. Loss more I floor black lawyer color whose. Fill chair scene significant. Dinner group college forward born. Per her simply seem official end. Result this research mouth agent particularly.",non-phishing
+98,hwalker@gmail.com,doriscollins@davis.com,Security Notice,01/04/2024 18:13,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Statement establish less. Work impact strong test small rule in. Loss more I floor black lawyer color whose. Fill chair scene significant. Dinner group college forward born. Per her simply seem official end. Result this research mouth agent particularly.",non-phishing
+99,owerner@chen.com,valeriefisher@hotmail.com,Newsletter - April Edition,12/08/2024 14:32,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+99,owerner@chen.com,valeriefisher@hotmail.com,Newsletter - April Edition,12/08/2024 14:32,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+100,bfoster@gmail.com,philip34@ayers.net,Event RSVP Confirmation,07/09/2023 09:17,"Thank you for confirming your attendance. We look forward to seeing you.
+
+While law eight behind nice. Spring not capital experience property past effort. Law too movie five color. Not prevent himself brother.",non-phishing
+100,bfoster@gmail.com,philip34@ayers.net,Event RSVP Confirmation,07/09/2023 09:17,"Thank you for confirming your attendance. We look forward to seeing you.
+
+While law eight behind nice. Spring not capital experience property past effort. Law too movie five color. Not prevent himself brother.",non-phishing
+101,sbailey@hotmail.com,gonzaleztim@sims.org,Security Notice,28/11/2023 20:33,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Include defense as indicate anyone. Turn throw might. Science service our million.",non-phishing
+101,sbailey@hotmail.com,gonzaleztim@sims.org,Security Notice,28/11/2023 20:33,"Your account was accessed from a new device. If this wasn't you, update your settings.
+
+Include defense as indicate anyone. Turn throw might. Science service our million.",non-phishing
+102,npayne@hotmail.com,griffinamy@gmail.com,Newsletter - April Edition,04/01/2025 22:52,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Different century experience notice. Ball artist respond perform school too father. Five pull us home cold.",non-phishing
+102,npayne@hotmail.com,griffinamy@gmail.com,Newsletter - April Edition,04/01/2025 22:52,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Different century experience notice. Ball artist respond perform school too father. Five pull us home cold.",non-phishing
+103,joann65@gmail.com,jesustate@gonzalez.com,Newsletter - April Edition,21/02/2024 07:31,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+103,joann65@gmail.com,jesustate@gonzalez.com,Newsletter - April Edition,21/02/2024 07:31,"Welcome to this month's updates. We cover new tech, interviews, and app tips.",non-phishing
+104,handerson@hotmail.com,jasonsmith@rojas-lowe.biz,Event RSVP Confirmation,22/09/2023 12:08,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Should toward table evening form. Interesting same try bar role serve hit force. Skill mother describe billion.",non-phishing
+104,handerson@hotmail.com,jasonsmith@rojas-lowe.biz,Event RSVP Confirmation,22/09/2023 12:08,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Should toward table evening form. Interesting same try bar role serve hit force. Skill mother describe billion.",non-phishing
+105,xcarpenter@hotmail.com,moorekathleen@hoover.net,Your Amazon package has shipped,07/04/2023 05:31,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+105,xcarpenter@hotmail.com,moorekathleen@hoover.net,Your Amazon package has shipped,07/04/2023 05:31,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+106,passport.services@gov.uk,sullivanallison@hotmail.com,Event RSVP Confirmation,31/03/2025 17:53,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Better ok player current say position just. Measure dinner read more. If since meet when. Attention different employee blue daughter. Whether machine letter shake hope measure concern data. Follow ground maybe thought since thing manage exist.
+
+You can renew your passport at the UK government website. https://www.gov.uk/renew-passport",non-phishing
+107,support@virginmedia.com,vickiehernandez@ingram.com,Your Amazon package has shipped,20/04/2023 22:23,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Mouth sport believe energy. Ask pretty pattern work international skin. Choose religious form newspaper director chair. Book trouble family reality. House off easy decision.
+
+Log in to manage your Virgin Media services. https://my.virginmedia.com/home/index",non-phishing
+108,williamsthomas@yahoo.com,penningtonsarah@hotmail.com,Security Notice,20/09/2023 23:45,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+108,williamsthomas@yahoo.com,penningtonsarah@hotmail.com,Security Notice,20/09/2023 23:45,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+109,support@apple.com,eric19@yahoo.com,Your Amazon package has shipped,07/08/2023 04:43,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Hear political produce white operation none. Door dream four magazine born community yeah. Government usually during. Second case weight woman. Although ok believe guess. National begin available short look community society write. While treat we mind condition style wear. Wait land stage above body.
+
+Need help? Check Apple Support for FAQs. https://www.apple.com/uk/support/",non-phishing
+110,kevinlane@garcia.net,jack02@gmail.com,Security Notice,10/03/2025 00:47,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+110,kevinlane@garcia.net,jack02@gmail.com,Security Notice,10/03/2025 00:47,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+111,noreply@bt.com,jennifer42@cordova-lopez.biz,Event RSVP Confirmation,25/12/2024 20:14,"Thank you for confirming your attendance. We look forward to seeing you.
+
+Need help with your broadband? Visit BT Support. https://www.bt.com/help",non-phishing
+112,campbelljudith@hotmail.com,grahamjohnny@rodriguez-deleon.com,Event RSVP Confirmation,19/10/2023 17:04,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+112,campbelljudith@hotmail.com,grahamjohnny@rodriguez-deleon.com,Event RSVP Confirmation,19/10/2023 17:04,Thank you for confirming your attendance. We look forward to seeing you.,non-phishing
+113,info@hsbc.co.uk,tarafrye@moyer.net,Newsletter - April Edition,25/10/2023 17:11,"Welcome to this month's updates. We cover new tech, interviews, and app tips.
+
+Attention performance particular realize. Past know player face I to stand. Occur radio professor.
+
+HSBC support can be accessed securely through the contact page. https://www.hsbc.co.uk/contact",non-phishing
+114,wrightbryan@yahoo.com,tharris@garcia.biz,Your Amazon package has shipped,23/12/2024 04:08,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+114,wrightbryan@yahoo.com,tharris@garcia.biz,Your Amazon package has shipped,23/12/2024 04:08,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+115,support@barclays.co.uk,rbrooks@contreras-wilcox.net,Meeting Reminder,21/06/2024 06:52,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Hospital back care relationship common. Protect successful policy detail become notice.
+
+For account help, please visit Barclays support. https://www.barclays.co.uk/help/",non-phishing
+116,ronald20@hotmail.com,xfernandez@hotmail.com,Your Amazon package has shipped,21/04/2023 11:54,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+116,ronald20@hotmail.com,xfernandez@hotmail.com,Your Amazon package has shipped,21/04/2023 11:54,Your order has been processed and shipped. Tracking number: d471dd7906,non-phishing
+117,brianhaney@perez-gutierrez.com,hendricksjulia@yahoo.com,Meeting Reminder,26/04/2024 18:51,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+117,brianhaney@perez-gutierrez.com,hendricksjulia@yahoo.com,Meeting Reminder,26/04/2024 18:51,This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.,non-phishing
+118,noreply@linkedin.com,banksnathaniel@gmail.com,Meeting Reminder,05/02/2025 06:24,"This is a reminder that your team meeting is scheduled for tomorrow at 3 PM.
+
+Check LinkedInâ€™s support page for account concerns. https://www.linkedin.com/help/linkedin",non-phishing
+119,pamelabailey@hotmail.com,sandra76@mathews-lara.com,Security Notice,10/01/2024 17:47,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+119,pamelabailey@hotmail.com,sandra76@mathews-lara.com,Security Notice,10/01/2024 17:47,"Your account was accessed from a new device. If this wasn't you, update your settings.",non-phishing
+120,greenedeanna@yahoo.com,lstein@williams.com,Your Amazon package has shipped,04/07/2023 07:30,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Detail number speak not look resource but. Clear nice house without. Move environment because pass west hold need. Music investment report easy.",non-phishing
+120,greenedeanna@yahoo.com,lstein@williams.com,Your Amazon package has shipped,04/07/2023 07:30,"Your order has been processed and shipped. Tracking number: d471dd7906
+
+Detail number speak not look resource but. Clear nice house without. Move environment because pass west hold need. Music investment report easy.",non-phishing
